@@ -9,4 +9,5 @@ Building AI systems. Interested in agent orchestration, evaluation without groun
 - **md-viewer:** CLI markdown viewer/editor built with Tauri
 
 **Background:** MS Analytics (NC State) / MBA (Appalachian State). Previously ML at USAA and EY, then AI infrastructure for federal research and healthcare projects.
+
 **Tech:** Python • PyTorch • HuggingFace • AWS • Docker • Terraform • Snowflake • MCP
