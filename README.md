@@ -4,9 +4,10 @@ Building AI systems. Interested in agent orchestration, evaluation without groun
 
 ## Current Focus:
 
-- **Agents:** Multi-agent systems and agentic coding workflows using pydantic_ai and fastmcp
+- **AI Agents:** Multi-agent systems and agentic coding workflows using pydantic_ai and fastmcp
 - **NBAStatPy:** NBA data wrapper and MCP server on PyPI
 - **md-viewer:** CLI markdown viewer/editor built with Tauri
+- **vizop:** Data Viz package for high-quality charts with a simple configuration
 
 **Background:** MS Analytics (NC State) / MBA (Appalachian State). Previously ML at USAA and EY, then AI infrastructure for federal research and healthcare projects.
 
